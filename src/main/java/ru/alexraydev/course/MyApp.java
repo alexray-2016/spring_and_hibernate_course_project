@@ -1,3 +1,5 @@
+package ru.alexraydev.course;
+
 public class MyApp {
 
 	public static void main(String[] args) {
