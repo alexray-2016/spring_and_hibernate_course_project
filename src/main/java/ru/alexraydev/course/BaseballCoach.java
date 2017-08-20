@@ -1,8 +1,5 @@
 package ru.alexraydev.course;
 
-import org.springframework.context.annotation.Bean;
-import org.springframework.stereotype.Component;
-
 public class BaseballCoach implements Coach {
 
 	// define a private field for the dependency
